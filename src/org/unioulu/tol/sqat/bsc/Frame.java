@@ -41,7 +41,17 @@ public class Frame {
 
 	//bonus throws
 	public int bonus(){
-		//to be implemented
-		return 0;
+		if(isStrike())
+		{
+			return 2;
+		}
+		else if(isSpare())
+		{
+			return 1;
+		}
+		else
+		{
+			return 0;
+		}
 	}
 }
