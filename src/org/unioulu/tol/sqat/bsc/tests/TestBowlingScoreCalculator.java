@@ -89,7 +89,7 @@ public class TestBowlingScoreCalculator {
 		
 		booleanActual = frame.isSpare();
 		
-		assertEquals(true, booleanActual);
+		assertEquals(false, booleanActual);
 	}
 
 }

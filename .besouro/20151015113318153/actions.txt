@@ -94,3 +94,6 @@ UnitTestSessionAction 1444899758546 TestBowlingScoreCalculator OK
 RefactoringAction 1444899772837 TestBowlingScoreCalculator.java ADD void testFrameIsSpareTrue()/2 METHOD
 RefactoringAction 1444899777858 TestBowlingScoreCalculator.java RENAME testFrameIsSpareTrue()/2=>void testFrameIsSpareFalse() METHOD
 EditAction 1444899789270 TestBowlingScoreCalculator.java 1566 8 20 6
+UnitTestCaseAction 1444899792504 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444899792505 TestBowlingScoreCalculator FAIL
+EditAction 1444899800493 TestBowlingScoreCalculator.java 1567 8 20 6
