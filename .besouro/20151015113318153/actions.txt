@@ -119,3 +119,4 @@ UnitTestCaseAction 1444900341506 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444900341507 TestBowlingScoreCalculator OK
 FileOpenedAction 1444900410772 Frame.java 864 6 9 0
 EditAction 1444900431473 BowlingGame.java 704 5 5 0
+EditAction 1444900437010 BowlingGame.java 703 5 5 0

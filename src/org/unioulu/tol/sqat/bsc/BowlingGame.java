@@ -22,7 +22,7 @@ public class BowlingGame {
 	}
 	
 	public int score(){
-		int score = 20;
+		int score = 0;
 		
 		for(int i=0; i<frames.size(); i++)
 		{
