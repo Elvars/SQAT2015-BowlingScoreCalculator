@@ -270,3 +270,4 @@ RefactoringAction 1444905260298 TestBowlingScoreCalculator.java RENAME testGameS
 EditAction 1444905308223 TestBowlingScoreCalculator.java 3127 15 48 12
 EditAction 1444905401142 TestBowlingScoreCalculator.java 3224 15 51 13
 EditAction 1444905407597 TestBowlingScoreCalculator.java 3224 15 51 13
+EditAction 1444905411086 TestBowlingScoreCalculator.java 3224 15 51 13
