@@ -257,3 +257,5 @@ EditAction 1444905057139 Frame.java 1055 6 9 0
 EditAction 1444905081269 Frame.java 1058 6 9 0
 RefactoringAction 1444905118722 Frame.java ADD int score FIELD
 EditAction 1444905138567 BowlingGame.java 1358 8 9 0
+CompilationAction 1444905138817 BowlingGame.java
+EditAction 1444905158999 Frame.java 1103 6 10 0
