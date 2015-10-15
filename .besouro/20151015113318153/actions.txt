@@ -148,3 +148,6 @@ RefactoringAction 1444900962812 TestBowlingScoreCalculator.java ADD void testFra
 RefactoringAction 1444900965834 TestBowlingScoreCalculator.java RENAME testFrameBonusThrowsReturns0()/2=>void testFrameBonusThrowsReturns2() METHOD
 EditAction 1444900971496 TestBowlingScoreCalculator.java 2114 11 29 9
 EditAction 1444900974704 TestBowlingScoreCalculator.java 2114 11 29 9
+UnitTestCaseAction 1444900976496 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444900976496 TestBowlingScoreCalculator OK
+EditAction 1444900981921 TestBowlingScoreCalculator.java 2114 11 29 9
