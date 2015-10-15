@@ -44,7 +44,7 @@ public class BowlingGame {
 	
 	public boolean isNextFrameBonus(){
 		
-		if(isNextFrameBonusWithParameters(frames.size()))
+		if(isNextFrameBonusWithParameters(frames.size()-1))
 		{
 			return true;
 		}
