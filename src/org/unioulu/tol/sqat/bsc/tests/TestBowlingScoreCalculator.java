@@ -134,7 +134,7 @@ public class TestBowlingScoreCalculator {
 		for(int i=0; i<10; i++)
 		{
 			frame = new Frame(1, 1);
-			game.addFrame(frame);
+			BowlingGame.getInstance().addFrame(frame);
 			
 		}
 		
