@@ -47,6 +47,7 @@ public class Frame {
 	}
 
 	//bonus throws
+	//number of or score of?
 	public int bonus(){
 		if(isStrike())
 		{
