@@ -159,3 +159,7 @@ UnitTestCaseAction 1444901265957 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444901265958 TestBowlingScoreCalculator OK
 EditAction 1444901781798 BowlingGame.java 749 5 7 0
 EditAction 1444901901055 Frame.java 929 6 9 0
+RefactoringAction 1444901912622 BowlingGame.java ADD void get FIELD
+RefactoringAction 1444901915136 BowlingGame.java RENAME get=>void getFrameCoun FIELD
+RefactoringAction 1444901916651 BowlingGame.java RENAME getFrameCoun=>void getFrameCount() METHOD
+EditAction 1444901940286 BowlingGame.java 814 6 8 0

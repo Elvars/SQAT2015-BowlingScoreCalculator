@@ -37,4 +37,9 @@ public class BowlingGame {
 		
 		return false;
 	}
+	
+	public int getFrameCount()
+	{
+		return frames.size();
+	}
 }
