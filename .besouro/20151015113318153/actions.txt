@@ -254,3 +254,4 @@ RefactoringAction 1444904750257 TestBowlingScoreCalculator.java ADD void testGam
 RefactoringAction 1444904752279 TestBowlingScoreCalculator.java RENAME testGameAndFra=>void testGameAndFrames FIELD
 RefactoringAction 1444904759803 TestBowlingScoreCalculator.java RENAME testGameAndFrames=>void testGameAndFramesMegaTest() METHOD
 EditAction 1444905057139 Frame.java 1055 6 9 0
+EditAction 1444905081269 Frame.java 1058 6 9 0
