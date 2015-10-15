@@ -14,6 +14,7 @@ public class BowlingGame {
 		
 		frames.add(frame);
 		
+		System.out.println(frames.size());
 	}
 	
 	public void setBonus(int firstThrow, int secondThrow) {
