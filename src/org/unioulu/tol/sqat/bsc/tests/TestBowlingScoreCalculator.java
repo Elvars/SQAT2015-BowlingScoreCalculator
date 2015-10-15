@@ -131,7 +131,12 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameIsLastFrameReturnsTrue()
 	{
-		frame = new Frame(10, 0);
+		for(int i=0; i<10; i++)
+		{
+			frame = new Frame(1, 1);
+			game.addFrame(frame);
+			
+		}
 		
 		booleanActual = frame.isLastFrame();
 		

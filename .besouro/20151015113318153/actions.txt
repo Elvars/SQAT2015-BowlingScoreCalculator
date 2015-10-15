@@ -177,3 +177,6 @@ RefactoringAction 1444902505770 TestBowlingScoreCalculator.java RENAME testFrame
 RefactoringAction 1444902508292 TestBowlingScoreCalculator.java RENAME testFrameIsLastFrame=>void testFrameIsLastFrameReturns FIELD
 RefactoringAction 1444902510814 TestBowlingScoreCalculator.java RENAME testFrameIsLastFrameReturns=>void testFrameIsLastFrameReturnsTrue() METHOD
 EditAction 1444902560827 TestBowlingScoreCalculator.java 2301 12 32 10
+UnitTestCaseAction 1444902562975 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444902562975 TestBowlingScoreCalculator FAIL
+EditAction 1444902579325 TestBowlingScoreCalculator.java 2369 12 32 10
