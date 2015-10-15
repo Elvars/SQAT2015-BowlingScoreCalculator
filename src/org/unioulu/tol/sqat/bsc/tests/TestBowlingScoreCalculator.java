@@ -114,7 +114,7 @@ public class TestBowlingScoreCalculator {
 		
 		intActual = frame.bonus();
 		
-		assertEquals(2, intActual);
+		assertEquals(0, intActual);
 	}
 
 }
