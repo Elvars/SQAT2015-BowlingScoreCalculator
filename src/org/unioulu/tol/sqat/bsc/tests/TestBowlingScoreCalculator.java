@@ -39,6 +39,16 @@ public class TestBowlingScoreCalculator {
 		
 		booleanActual = frame.isStrike();
 		
+		assertEquals(true, booleanActual);
+	}
+	
+	@Test
+	public void testFrameIsStrikeIsFalse()
+	{
+		frame = new Frame(10,0);
+		
+		booleanActual = frame.isStrike();
+		
 		assertEquals(false, booleanActual);
 	}
 

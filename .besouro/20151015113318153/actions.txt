@@ -40,3 +40,8 @@ CompilationAction 1444899140881 TestBowlingScoreCalculator.java
 UnitTestCaseAction 1444899143176 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444899143176 TestBowlingScoreCalculator OK
 EditAction 1444899153924 TestBowlingScoreCalculator.java 751 3 5 1
+UnitTestCaseAction 1444899154222 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444899154223 TestBowlingScoreCalculator FAIL
+RefactoringAction 1444899175475 TestBowlingScoreCalculator.java ADD void testFrameIsStrikeIsTrue()/2 METHOD
+RefactoringAction 1444899178992 TestBowlingScoreCalculator.java RENAME testFrameIsStrikeIsTrue()/2=>void testFrameIsStrikeIsFalse() METHOD
+EditAction 1444899186070 TestBowlingScoreCalculator.java 922 4 8 2
