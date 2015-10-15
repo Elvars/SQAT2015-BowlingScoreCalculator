@@ -134,7 +134,7 @@ public class TestBowlingScoreCalculator {
 		for(int i=0; i<10; i++)
 		{
 			frame = new Frame(1, 1);
-			BowlingGame.getInstance().addFrame(frame);
+			game.addFrame(frame);
 			
 		}
 		
@@ -148,7 +148,7 @@ public class TestBowlingScoreCalculator {
 	public void testGameIsNextFrameBonus()
 	{
 		frame = new Frame(10, 0);
-		BowlingGame.getInstance().addFrame(frame);
+		//BowlingGame.getInstance().addFrame(frame);
 		
 		booleanActual = BowlingGame.getInstance().isNextFrameBonus();
 		

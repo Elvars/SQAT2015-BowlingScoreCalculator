@@ -211,3 +211,6 @@ RefactoringAction 1444903596918 BowlingGame.java ADD boolean isNextFrameBonusWit
 RefactoringAction 1444903598926 BowlingGame.java RENAME isNextFrameBonusWithPara=>boolean isNextFrameBonusWithParameter FIELD
 RefactoringAction 1444903601435 BowlingGame.java RENAME isNextFrameBonusWithParameter=>boolean isNextFrameBonusWithParameters(int) METHOD
 EditAction 1444903703993 BowlingGame.java 1321 8 11 0
+UnitTestCaseAction 1444903724022 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444903724022 TestBowlingScoreCalculator FAIL
+EditAction 1444903770571 TestBowlingScoreCalculator.java 2623 13 35 11
