@@ -11,6 +11,7 @@ public class TestBowlingScoreCalculator {
 	
 	BowlingGame game;
 	Frame frame;
+	Frame frame2;
 	
 	int intActual = 0;
 	boolean booleanActual = false;
@@ -150,6 +151,21 @@ public class TestBowlingScoreCalculator {
 		frame = new Frame(10, 0);
 		game.addFrame(frame);
 		//BowlingGame.getInstance().addFrame(frame);
+		
+		booleanActual = game.isNextFrameBonus();
+		
+		assertEquals(true, booleanActual);
+
+	}
+	
+	@Test
+	public void testGameIsNextFrameBonusReturnsFalse()
+	{
+		frame = new Frame(10,0);
+		frame2 = new Frame(3, 4);
+		
+		game.addFrame(frame);
+		game.addFrame(frame2);
 		
 		booleanActual = game.isNextFrameBonus();
 		
