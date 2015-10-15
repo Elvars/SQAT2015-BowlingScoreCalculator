@@ -106,5 +106,11 @@ public class TestBowlingScoreCalculator {
 		
 		assertEquals(20, intActual);
 	}
+	
+	@Test
+	public void testFrameBonusThrowsReturnsTrue()
+	{
+		
+	}
 
 }

@@ -137,3 +137,4 @@ RefactoringAction 1444900747704 TestBowlingScoreCalculator.java RENAME testFrame
 RefactoringAction 1444900750225 TestBowlingScoreCalculator.java RENAME testFrameBonusThrowsReturns=>void testFrameBonusThrowsReturnsTrue FIELD
 RefactoringAction 1444900752746 TestBowlingScoreCalculator.java RENAME testFrameBonusThrowsReturnsTrue=>void testFrameBonusThrowsReturnsTrue() METHOD
 EditAction 1444900806189 Frame.java 948 6 9 0
+EditAction 1444900809575 TestBowlingScoreCalculator.java 1862 10 23 7
