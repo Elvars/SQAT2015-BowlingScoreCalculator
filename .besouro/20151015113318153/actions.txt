@@ -34,3 +34,4 @@ RefactoringAction 1444899079514 TestBowlingScoreCalculator.java RENAME actual=>i
 RefactoringAction 1444899088530 TestBowlingScoreCalculator.java ADD boolean booleanActua FIELD
 RefactoringAction 1444899091045 TestBowlingScoreCalculator.java RENAME booleanActua=>boolean booleanActual FIELD
 EditAction 1444899091932 TestBowlingScoreCalculator.java 692 3 4 0
+EditAction 1444899120348 TestBowlingScoreCalculator.java 750 3 5 0
