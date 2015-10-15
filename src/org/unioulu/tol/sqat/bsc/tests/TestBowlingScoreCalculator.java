@@ -102,9 +102,9 @@ public class TestBowlingScoreCalculator {
 			
 		}
 		
+		intActual = game.score();
 		
-		
-		assertEquals(false, booleanActual);
+		assertEquals(29, intActual);
 	}
 
 }
