@@ -247,3 +247,6 @@ EditAction 1444904121280 TestBowlingScoreCalculator.java 2951 14 42 12
 UnitTestCaseAction 1444904124213 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444904124214 TestBowlingScoreCalculator OK
 EditAction 1444904209323 TestBowlingScoreCalculator.java 2966 14 44 12
+UnitTestCaseAction 1444904211208 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444904211208 TestBowlingScoreCalculator OK
+EditAction 1444904235015 TestBowlingScoreCalculator.java 2962 14 44 12
