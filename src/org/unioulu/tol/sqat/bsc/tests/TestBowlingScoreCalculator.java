@@ -75,7 +75,7 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameIsSpareTrue()
 	{
-		frame = new Frame(1, 9);
+		frame = new Frame(1, 8);
 		
 		booleanActual = frame.isSpare();
 		
