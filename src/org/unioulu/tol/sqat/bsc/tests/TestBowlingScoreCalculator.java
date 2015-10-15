@@ -127,5 +127,16 @@ public class TestBowlingScoreCalculator {
 		
 		assertEquals(2, intActual);
 	}
+	
+	@Test
+	public void testFrameIsLastFrameReturnsTrue()
+	{
+		frame = new Frame(10, 0);
+		
+		booleanActual = frame.isLastFrame();
+		
+		assertEquals(true, booleanActual);
+
+	}
 
 }

@@ -171,3 +171,9 @@ EditAction 1444902264011 BowlingGame.java 876 6 8 0
 RefactoringAction 1444902310920 BowlingGame.java ADD static ClassicSingleton getInstance() METHOD
 EditAction 1444902339931 BowlingGame.java 1034 7 10 0
 EditAction 1444902407979 Frame.java 1028 6 9 0
+RefactoringAction 1444902491703 TestBowlingScoreCalculator.java ADD void testFrame FIELD
+RefactoringAction 1444902495747 TestBowlingScoreCalculator.java RENAME testFrame=>void testFrameIs FIELD
+RefactoringAction 1444902505770 TestBowlingScoreCalculator.java RENAME testFrameIs=>void testFrameIsLastFrame FIELD
+RefactoringAction 1444902508292 TestBowlingScoreCalculator.java RENAME testFrameIsLastFrame=>void testFrameIsLastFrameReturns FIELD
+RefactoringAction 1444902510814 TestBowlingScoreCalculator.java RENAME testFrameIsLastFrameReturns=>void testFrameIsLastFrameReturnsTrue() METHOD
+EditAction 1444902560827 TestBowlingScoreCalculator.java 2301 12 32 10
