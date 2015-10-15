@@ -28,7 +28,9 @@ public class BowlingGame {
 	
 	public void setBonus(int firstThrow, int secondThrow) {
 		bonus = new Frame(firstThrow, secondThrow);
-		frames.add(bonus);
+		int i = frames.size()-1;
+		
+		frames.get(i).score()
 	}
 	
 	public int score(){
