@@ -39,7 +39,7 @@ public class TestBowlingScoreCalculator {
 		
 		intActual = frame.score();
 		
-		assertEquals(9, intActual);
+		assertEquals(10, intActual);
 	}
 	
 	@Test
