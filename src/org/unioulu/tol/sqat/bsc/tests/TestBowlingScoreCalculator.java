@@ -110,7 +110,11 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameBonusThrowsReturns0()
 	{
+		frame = new Frame(1, 1);
 		
+		intActual = frame.bonus();
+		
+		assertEquals(2, intActual);
 	}
 
 }
