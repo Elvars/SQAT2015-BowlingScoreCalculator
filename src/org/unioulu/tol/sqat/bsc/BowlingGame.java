@@ -30,7 +30,7 @@ public class BowlingGame {
 		bonus = new Frame(firstThrow, secondThrow);
 		int i = frames.size()-1;
 		
-		frames.get(i).score()
+		frames.get(i).score += firstThrow+secondThrow;
 	}
 	
 	public int score(){

@@ -259,3 +259,7 @@ RefactoringAction 1444905118722 Frame.java ADD int score FIELD
 EditAction 1444905138567 BowlingGame.java 1358 8 9 0
 CompilationAction 1444905138817 BowlingGame.java
 EditAction 1444905158999 Frame.java 1103 6 10 0
+CompilationAction 1444905159260 BowlingGame.java
+CompilationAction 1444905193815 BowlingGame.java
+RefactoringAction 1444905238185 TestBowlingScoreCalculator.java REMOVE testGameAndFramesMegaTest() METHOD
+EditAction 1444905239551 TestBowlingScoreCalculator.java 2968 14 44 12
