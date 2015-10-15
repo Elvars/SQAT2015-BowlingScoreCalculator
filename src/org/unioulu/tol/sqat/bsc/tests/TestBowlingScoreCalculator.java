@@ -131,7 +131,7 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameIsLastFrameReturnsTrue()
 	{
-		for(int i=0; i<9; i++)
+		for(int i=0; i<10; i++)
 		{
 			frame = new Frame(1, 1);
 			BowlingGame.getInstance().addFrame(frame);
