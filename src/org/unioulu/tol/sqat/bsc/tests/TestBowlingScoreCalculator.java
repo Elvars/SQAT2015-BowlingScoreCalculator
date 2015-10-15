@@ -153,7 +153,7 @@ public class TestBowlingScoreCalculator {
 		
 		booleanActual = game.isNextFrameBonus();
 		
-		assertEquals(false, booleanActual);
+		assertEquals(true, booleanActual);
 
 	}
 	
