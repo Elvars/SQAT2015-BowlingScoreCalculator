@@ -20,3 +20,10 @@ UnitTestSessionAction 1444898711613 TestGrid OK
 UnitTestCaseAction 1444898724872 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444898724874 TestBowlingScoreCalculator OK
 EditAction 1444898883937 BowlingGame.java 646 5 5 0
+RefactoringAction 1444898900016 TestBowlingScoreCalculator.java ADD void test FIELD
+RefactoringAction 1444898915061 TestBowlingScoreCalculator.java RENAME test=>void testI FIELD
+RefactoringAction 1444898916076 TestBowlingScoreCalculator.java RENAME testI=>void testIs FIELD
+RefactoringAction 1444898928592 TestBowlingScoreCalculator.java RENAME testIs=>void testFrameIsStrikeTrue FIELD
+RefactoringAction 1444898932107 TestBowlingScoreCalculator.java RENAME testFrameIsStrikeTrue=>void testFrameIsStrike FIELD
+RefactoringAction 1444898937124 TestBowlingScoreCalculator.java RENAME testFrameIsStrike=>void METHOD
+EditAction 1444898967989 Frame.java 820 6 8 0
