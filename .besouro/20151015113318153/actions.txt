@@ -170,3 +170,4 @@ RefactoringAction 1444902255362 BowlingGame.java RENAME singleton=>BowlingGame i
 EditAction 1444902264011 BowlingGame.java 876 6 8 0
 RefactoringAction 1444902310920 BowlingGame.java ADD static ClassicSingleton getInstance() METHOD
 EditAction 1444902339931 BowlingGame.java 1034 7 10 0
+EditAction 1444902407979 Frame.java 1028 6 9 0
