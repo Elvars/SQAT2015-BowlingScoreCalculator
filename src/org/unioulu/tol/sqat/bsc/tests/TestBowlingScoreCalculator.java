@@ -108,7 +108,7 @@ public class TestBowlingScoreCalculator {
 	}
 	
 	@Test
-	public void testFrameBonusThrowsReturnsTrue()
+	public void testFrameBonusThrowsReturns0()
 	{
 		
 	}
