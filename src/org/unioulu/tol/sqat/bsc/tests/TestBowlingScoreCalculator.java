@@ -144,6 +144,11 @@ public class TestBowlingScoreCalculator {
 
 	}
 	
+	@Test
+	public void testGameIsNextFrameBonus()
+	{
+		
+	}
 	
 
 }
