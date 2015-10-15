@@ -44,9 +44,7 @@ public class BowlingGame {
 	
 	public boolean isNextFrameBonus(){
 		
-		int i = 0;
-		
-		if(frames.get(i).isSpare() || frames.get(i).isStrike())
+		if(isNextFrameBonusWithParameters(frames.size()))
 		{
 			return true;
 		}
@@ -59,5 +57,17 @@ public class BowlingGame {
 	public int getFrameCount()
 	{
 		return frames.size();
+	}
+	
+	public boolean isNextFrameBonusWithParameters(int i)
+	{
+		if(frames.get(i).isSpare() || frames.get(i).isStrike())
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
 	}
 }
