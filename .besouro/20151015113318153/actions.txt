@@ -35,3 +35,8 @@ RefactoringAction 1444899088530 TestBowlingScoreCalculator.java ADD boolean bool
 RefactoringAction 1444899091045 TestBowlingScoreCalculator.java RENAME booleanActua=>boolean booleanActual FIELD
 EditAction 1444899091932 TestBowlingScoreCalculator.java 692 3 4 0
 EditAction 1444899120348 TestBowlingScoreCalculator.java 750 3 5 0
+CompilationAction 1444899120631 TestBowlingScoreCalculator.java
+CompilationAction 1444899140881 TestBowlingScoreCalculator.java
+UnitTestCaseAction 1444899143176 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444899143176 TestBowlingScoreCalculator OK
+EditAction 1444899153924 TestBowlingScoreCalculator.java 751 3 5 1
