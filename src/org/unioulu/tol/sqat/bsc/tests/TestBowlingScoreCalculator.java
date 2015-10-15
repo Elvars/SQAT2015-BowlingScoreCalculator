@@ -175,7 +175,15 @@ public class TestBowlingScoreCalculator {
 
 	}
 	
-	
+	@Test
+	public void testGameSetBonus()
+	{
+		frame = new Frame(10, 0);
+		game.addFrame(frame);
+		
+		frame2 = new Frame(2, 3);
+		game.addFrame(frame2);
+	}
 	
 
 }

@@ -263,3 +263,8 @@ CompilationAction 1444905159260 BowlingGame.java
 CompilationAction 1444905193815 BowlingGame.java
 RefactoringAction 1444905238185 TestBowlingScoreCalculator.java REMOVE testGameAndFramesMegaTest() METHOD
 EditAction 1444905239551 TestBowlingScoreCalculator.java 2968 14 44 12
+RefactoringAction 1444905253245 TestBowlingScoreCalculator.java ADD void test FIELD
+RefactoringAction 1444905255256 TestBowlingScoreCalculator.java RENAME test=>void testGame FIELD
+RefactoringAction 1444905259275 TestBowlingScoreCalculator.java RENAME testGame=>void testGameSetBonus FIELD
+RefactoringAction 1444905260298 TestBowlingScoreCalculator.java RENAME testGameSetBonus=>void testGameSetBonus() METHOD
+EditAction 1444905308223 TestBowlingScoreCalculator.java 3127 15 48 12
