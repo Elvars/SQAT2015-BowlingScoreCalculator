@@ -100,3 +100,13 @@ EditAction 1444899800493 TestBowlingScoreCalculator.java 1567 8 20 6
 UnitTestCaseAction 1444899802171 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444899802172 TestBowlingScoreCalculator OK
 EditAction 1444900115957 BowlingGame.java 612 5 3 0
+RefactoringAction 1444900158050 TestBowlingScoreCalculator.java ADD void testFrameIsSpareFalse()/2 METHOD
+RefactoringAction 1444900168070 TestBowlingScoreCalculator.java RENAME testFrameIsSpareFalse()/2=>void testGame() METHOD
+RefactoringAction 1444900170591 TestBowlingScoreCalculator.java RENAME testGame()=>void testGamege() METHOD
+RefactoringAction 1444900172610 TestBowlingScoreCalculator.java RENAME testGamege()=>void testGameGetS() METHOD
+RefactoringAction 1444900177631 TestBowlingScoreCalculator.java RENAME testGameGetS()=>void testGameScoreRetur() METHOD
+RefactoringAction 1444900179151 TestBowlingScoreCalculator.java RENAME testGameScoreRetur()=>void testGameScoreReturn() METHOD
+RefactoringAction 1444900180170 TestBowlingScoreCalculator.java RENAME testGameScoreReturn()=>void testGameScoreReturns() METHOD
+RefactoringAction 1444900181692 TestBowlingScoreCalculator.java RENAME testGameScoreReturns()=>void testGameScoreReturns FIELD
+RefactoringAction 1444900184230 TestBowlingScoreCalculator.java RENAME testGameScoreReturns()=>void testGameScoreReturns FIELD
+EditAction 1444900283897 BowlingGame.java 673 5 5 0
