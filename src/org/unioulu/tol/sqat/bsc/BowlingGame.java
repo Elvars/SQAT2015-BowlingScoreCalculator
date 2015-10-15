@@ -10,6 +10,8 @@ public class BowlingGame {
 	
 	public BowlingGame(){}
 	
+	private static BowlingGame instance = new BowlingGame();
+	
 	public void addFrame(Frame frame){
 		
 		frames.add(frame);

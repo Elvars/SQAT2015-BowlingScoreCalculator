@@ -163,3 +163,8 @@ RefactoringAction 1444901912622 BowlingGame.java ADD void get FIELD
 RefactoringAction 1444901915136 BowlingGame.java RENAME get=>void getFrameCoun FIELD
 RefactoringAction 1444901916651 BowlingGame.java RENAME getFrameCoun=>void getFrameCount() METHOD
 EditAction 1444901940286 BowlingGame.java 814 6 8 0
+RefactoringAction 1444902096787 BowlingGame.java RENAME getFrameCount()=>int i() METHOD
+RefactoringAction 1444902103801 BowlingGame.java RENAME i()=>int getFrameCount() METHOD
+RefactoringAction 1444902241824 BowlingGame.java ADD Singleton singleton FIELD
+RefactoringAction 1444902255362 BowlingGame.java RENAME singleton=>BowlingGame instance FIELD
+EditAction 1444902264011 BowlingGame.java 876 6 8 0
