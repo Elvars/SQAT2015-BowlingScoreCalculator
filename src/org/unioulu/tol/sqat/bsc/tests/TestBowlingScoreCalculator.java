@@ -150,7 +150,7 @@ public class TestBowlingScoreCalculator {
 		frame = new Frame(10, 0);
 		//BowlingGame.getInstance().addFrame(frame);
 		
-		booleanActual = BowlingGame.getInstance().isNextFrameBonus();
+		booleanActual = game.isNextFrameBonus();
 		
 		assertEquals(false, booleanActual);
 
