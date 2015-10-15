@@ -204,3 +204,4 @@ RefactoringAction 1444903364788 BowlingGame.java RENAME isNextFrameBonus()=>bool
 EditAction 1444903365876 BowlingGame.java 1144 7 10 0
 RefactoringAction 1444903408802 BowlingGame.java RENAME isNextFrameBonus(int)=>boolean isNextFrameBonus() METHOD
 EditAction 1444903449495 BowlingGame.java 1157 7 11 0
+EditAction 1444903548840 TestBowlingScoreCalculator.java 2642 13 36 11
