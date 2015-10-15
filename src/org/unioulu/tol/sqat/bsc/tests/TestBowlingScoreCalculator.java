@@ -188,7 +188,7 @@ public class TestBowlingScoreCalculator {
 		
 		intActual = game.score();
 		
-		assertEquals(23, intActual);
+		assertEquals(25, intActual);
 	}
 	
 

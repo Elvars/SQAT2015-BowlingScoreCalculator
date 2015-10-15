@@ -269,3 +269,4 @@ RefactoringAction 1444905259275 TestBowlingScoreCalculator.java RENAME testGame=
 RefactoringAction 1444905260298 TestBowlingScoreCalculator.java RENAME testGameSetBonus=>void testGameSetBonus() METHOD
 EditAction 1444905308223 TestBowlingScoreCalculator.java 3127 15 48 12
 EditAction 1444905401142 TestBowlingScoreCalculator.java 3224 15 51 13
+EditAction 1444905407597 TestBowlingScoreCalculator.java 3224 15 51 13
