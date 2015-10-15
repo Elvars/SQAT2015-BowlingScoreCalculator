@@ -73,3 +73,6 @@ RefactoringAction 1444899583395 TestBowlingScoreCalculator.java RENAME test=>voi
 RefactoringAction 1444899585410 TestBowlingScoreCalculator.java RENAME testFrameIs=>void testFrameIsSpare FIELD
 RefactoringAction 1444899587928 TestBowlingScoreCalculator.java RENAME testFrameIsSpare=>void testFrameIsSpareTrue() METHOD
 EditAction 1444899605960 TestBowlingScoreCalculator.java 1322 7 15 5
+UnitTestCaseAction 1444899608892 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444899608893 TestBowlingScoreCalculator OK
+EditAction 1444899625978 TestBowlingScoreCalculator.java 1331 7 15 5
