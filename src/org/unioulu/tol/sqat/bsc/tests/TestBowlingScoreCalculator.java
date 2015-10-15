@@ -45,11 +45,11 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameScoreReturns0()
 	{
-		frame = new Frame(0, 5);
+		frame = new Frame(0, 0);
 		
 		intActual = frame.score();
 		
-		assertEquals(10, intActual);
+		assertEquals(0, intActual);
 	}
 	
 	@Test
