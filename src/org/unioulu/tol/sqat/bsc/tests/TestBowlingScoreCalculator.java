@@ -71,5 +71,12 @@ public class TestBowlingScoreCalculator {
 		
 		assertEquals(false, booleanActual);
 	}
+	
+	@Test
+	public void testFrameIsSpareTrue()
+	{
+		
+		assertEquals(true, true);
+	}
 
 }
