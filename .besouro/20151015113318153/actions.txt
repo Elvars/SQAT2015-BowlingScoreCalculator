@@ -27,3 +27,5 @@ RefactoringAction 1444898928592 TestBowlingScoreCalculator.java RENAME testIs=>v
 RefactoringAction 1444898932107 TestBowlingScoreCalculator.java RENAME testFrameIsStrikeTrue=>void testFrameIsStrike FIELD
 RefactoringAction 1444898937124 TestBowlingScoreCalculator.java RENAME testFrameIsStrike=>void METHOD
 EditAction 1444898967989 Frame.java 820 6 8 0
+RefactoringAction 1444898980181 TestBowlingScoreCalculator.java ADD int actual FIELD
+EditAction 1444898981014 TestBowlingScoreCalculator.java 607 3 2 0
