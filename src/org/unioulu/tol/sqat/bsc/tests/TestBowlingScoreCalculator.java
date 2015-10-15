@@ -183,6 +183,12 @@ public class TestBowlingScoreCalculator {
 		
 		frame2 = new Frame(2, 3);
 		game.addFrame(frame2);
+		
+		game.setBonus(2, 3);
+		
+		intActual = game.score();
+		
+		assertEquals(23, intActual);
 	}
 	
 
