@@ -18,6 +18,7 @@ public class TestBowlingScoreCalculator {
 	public void setup()
 	{
 		game = new BowlingGame();
+		frame = new Frame(0,0);
 	}
 
 	@Test

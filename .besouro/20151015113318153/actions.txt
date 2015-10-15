@@ -29,3 +29,4 @@ RefactoringAction 1444898937124 TestBowlingScoreCalculator.java RENAME testFrame
 EditAction 1444898967989 Frame.java 820 6 8 0
 RefactoringAction 1444898980181 TestBowlingScoreCalculator.java ADD int actual FIELD
 EditAction 1444898981014 TestBowlingScoreCalculator.java 607 3 2 0
+EditAction 1444899006957 TestBowlingScoreCalculator.java 634 3 3 0
