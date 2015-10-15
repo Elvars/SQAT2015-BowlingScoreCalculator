@@ -45,7 +45,7 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameIsStrikeIsFalse()
 	{
-		frame = new Frame(10,0);
+		frame = new Frame(9,0);
 		
 		booleanActual = frame.isStrike();
 		
