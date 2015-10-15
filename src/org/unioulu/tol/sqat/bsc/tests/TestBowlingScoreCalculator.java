@@ -5,10 +5,12 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 import org.unioulu.tol.sqat.bsc.BowlingGame;
+import org.unioulu.tol.sqat.bsc.Frame;
 
 public class TestBowlingScoreCalculator {
 	
 	BowlingGame game;
+	Frame frame;
 	
 	@Before
 	public void setup()
@@ -19,6 +21,12 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testAddFrames() {
 		
+		for(int i=0; i<10; i++)
+		{
+			frame = new Frame(1, 1);
+			game.addFrame(frame);
+			
+		}
 		
 		
 	}
