@@ -15,6 +15,7 @@ public class TestBowlingScoreCalculator {
 	int intActual = 0;
 	boolean booleanActual = false;
 	
+	
 	@Before
 	public void setup()
 	{
