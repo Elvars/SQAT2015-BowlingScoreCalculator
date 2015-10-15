@@ -97,7 +97,7 @@ public class TestBowlingScoreCalculator {
 	{
 		for(int i=0; i<10; i++)
 		{
-			frame = new Frame(2, 1);
+			frame = new Frame(1, 1);
 			game.addFrame(frame);
 			
 		}
