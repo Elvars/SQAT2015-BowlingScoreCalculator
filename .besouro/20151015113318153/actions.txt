@@ -110,3 +110,4 @@ RefactoringAction 1444900180170 TestBowlingScoreCalculator.java RENAME testGameS
 RefactoringAction 1444900181692 TestBowlingScoreCalculator.java RENAME testGameScoreReturns()=>void testGameScoreReturns FIELD
 RefactoringAction 1444900184230 TestBowlingScoreCalculator.java RENAME testGameScoreReturns()=>void testGameScoreReturns FIELD
 EditAction 1444900283897 BowlingGame.java 673 5 5 0
+EditAction 1444900286181 TestBowlingScoreCalculator.java 1773 9 22 7

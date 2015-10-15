@@ -91,5 +91,20 @@ public class TestBowlingScoreCalculator {
 		
 		assertEquals(false, booleanActual);
 	}
+	
+	@Test
+	public void testGameScoreReturns20()
+	{
+		for(int i=0; i<10; i++)
+		{
+			frame = new Frame(1, 1);
+			game.addFrame(frame);
+			
+		}
+		
+		
+		
+		assertEquals(false, booleanActual);
+	}
 
 }
