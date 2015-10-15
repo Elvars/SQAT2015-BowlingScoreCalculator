@@ -52,3 +52,6 @@ EditAction 1444899211937 TestBowlingScoreCalculator.java 921 4 8 2
 UnitTestCaseAction 1444899214836 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444899214836 TestBowlingScoreCalculator OK
 EditAction 1444899265946 Frame.java 824 6 8 0
+RefactoringAction 1444899350740 TestBowlingScoreCalculator.java ADD void testFrameScoreReturns10 FIELD
+RefactoringAction 1444899381258 TestBowlingScoreCalculator.java RENAME testFrameScoreReturns10=>void testFrameScoreReturns10() METHOD
+EditAction 1444899458217 TestBowlingScoreCalculator.java 1077 5 11 3

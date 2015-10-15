@@ -33,6 +33,16 @@ public class TestBowlingScoreCalculator {
 	}
 	
 	@Test
+	public void testFrameScoreReturns10()
+	{
+		frame = new Frame(5, 5);
+		
+		intActual = frame.score();
+		
+		assertEquals(9, intActual);
+	}
+	
+	@Test
 	public void testFrameIsStrikeIsTrue()
 	{
 		frame = new Frame(10,0);
