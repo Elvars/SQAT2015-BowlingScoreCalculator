@@ -148,9 +148,12 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testGameIsNextFrameBonusReturnsTrue()
 	{
-		frame = new Frame(10, 0);
+		frame = new Frame(2, 5);
+		frame2 = new Frame(10, 0);
+		
 		game.addFrame(frame);
-		//BowlingGame.getInstance().addFrame(frame);
+		game.addFrame(frame2);
+		
 		
 		booleanActual = game.isNextFrameBonus();
 		
