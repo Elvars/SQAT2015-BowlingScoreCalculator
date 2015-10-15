@@ -27,7 +27,10 @@ public class BowlingGame {
 	}
 	
 	public boolean isNextFrameBonus(){
-		//to be implemented
+		if(frames.size()==10)
+		{
+			
+		}
 		return false;
 	}
 }
