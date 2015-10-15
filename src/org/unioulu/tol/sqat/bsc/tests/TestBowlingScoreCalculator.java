@@ -12,13 +12,13 @@ public class TestBowlingScoreCalculator {
 	BowlingGame game;
 	Frame frame;
 	
-	int actual = 0;
+	int intActual = 0;
+	boolean booleanActual = false;
 	
 	@Before
 	public void setup()
 	{
 		game = new BowlingGame();
-		frame = new Frame(0,0);
 	}
 
 	@Test
@@ -35,7 +35,9 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testFrameIsStrikeIsTrue()
 	{
+		frame = new Frame(10,0);
 		
+		frame.isStrike();
 	}
 
 }
