@@ -168,3 +168,5 @@ RefactoringAction 1444902103801 BowlingGame.java RENAME i()=>int getFrameCount()
 RefactoringAction 1444902241824 BowlingGame.java ADD Singleton singleton FIELD
 RefactoringAction 1444902255362 BowlingGame.java RENAME singleton=>BowlingGame instance FIELD
 EditAction 1444902264011 BowlingGame.java 876 6 8 0
+RefactoringAction 1444902310920 BowlingGame.java ADD static ClassicSingleton getInstance() METHOD
+EditAction 1444902339931 BowlingGame.java 1034 7 10 0

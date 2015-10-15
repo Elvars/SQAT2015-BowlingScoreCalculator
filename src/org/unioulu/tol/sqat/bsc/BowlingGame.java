@@ -12,6 +12,13 @@ public class BowlingGame {
 	
 	private static BowlingGame instance = new BowlingGame();
 	
+	public static BowlingGame getInstance() {
+	      if(instance == null) {
+	         instance = new BowlingGame();
+	      }
+	      return instance;
+	}
+	
 	public void addFrame(Frame frame){
 		
 		frames.add(frame);
