@@ -243,3 +243,4 @@ RefactoringAction 1444904008593 TestBowlingScoreCalculator.java RENAME testGameI
 RefactoringAction 1444904077247 TestBowlingScoreCalculator.java ADD Frame ot FIELD
 RefactoringAction 1444904079259 TestBowlingScoreCalculator.java RENAME ot=>Frame frame2 FIELD
 EditAction 1444904116208 TestBowlingScoreCalculator.java 2950 14 42 12
+EditAction 1444904121280 TestBowlingScoreCalculator.java 2951 14 42 12
