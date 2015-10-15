@@ -42,7 +42,9 @@ public class BowlingGame {
 		return score;
 	}
 	
-	public boolean isNextFrameBonus(int i){
+	public boolean isNextFrameBonus(){
+		
+		int i = 0;
 		
 		if(frames.get(i).isSpare() || frames.get(i).isStrike())
 		{
